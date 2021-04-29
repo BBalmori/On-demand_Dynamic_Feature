@@ -1,0 +1,3 @@
+include ':dynamicfeature_ondemand'
+include ':app'
+rootProject.name = "OnDemandSample"
